@@ -2,7 +2,7 @@ Team 5, Baek kyumin, ddj4909
 
 #StarCraft
 
-![alt text](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSh6dZE-n8iCD2Lsms6Df1rM5uqcTEBrFUcMHYKsMVlEqmUOXvAugXvAug)
+![alt text](https://www.google.co.kr/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png)
 
 1. Story
 2. Games
