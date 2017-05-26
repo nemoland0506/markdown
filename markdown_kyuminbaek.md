@@ -8,16 +8,16 @@ Team 5, Baek kyumin, ddj4909
 
 1. Story
 2. Games
-..*StarCraft
-..*StarCraft II
-..*Spin-off titles
+StarCraft
+- StarCraft II
+- Spin-off titles
 3. Development
 4. Music
-..*StarCraft and Brood War
-..*StarCraft II
+- StarCraft and Brood War
+- StarCraft II
 5. Adaptations
-..*Novelizations
-..*Merchandise
+- Novelizations
+- Merchandise
 6. Reception and cultural impact
 7. References
 8. External links
