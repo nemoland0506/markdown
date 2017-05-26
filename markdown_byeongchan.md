@@ -13,13 +13,19 @@
   - 파일명은 모두 영어로 작성한다. (한글사용 지양)
   
  ## 로컬에서 띄우기
-  - 많은 TIL 사용자들은 로컬에서 ~~[gollum](https://github.com/gollum/gollum)~~, ~~[pow](http://pow.cx/)~~와 ~~[anvil](http://anvilformac.com/)~~을 사용하지만
+  - 많은 TIL 사용자들은 로컬에서 ~~[gollum](https://github.com/gollum/gollum)~~, ~~[pow](http://pow.cx/)~~, ~~[anvil](http://anvilformac.com/)~~ 을 사용하지만
     저는 사용법을 모르기 때문에, __[c9](https://c9.io)__ 을 이용한다.
  
  ## 2017.05.26, I Learned.
-  - Github 레포지토리 Collaborator 등록
-  - __과목명__ : 컴퓨터시스템기초설계 5조, __조원__ : *권혁찬*, *백규민*
-   Table | and Markdown | is So hard 
-  ---|---|---
-  열심히|공부해서|잘하겠습니다
+  - Github 레포지토리 Collaborator 등록.
+  - __과목명__ : 컴퓨터시스템기초설계 5조, __조원__ : *권혁찬*, *백규민*.
+  - | 테이블과 | 마크다운은            | 어렵습니다. |
+|----------|-----------------------|-------------|
+| Table    | and Markdown Language | is so hard  |
+| 테이블와 | 마크다운와            | 하드데스    |
   
+
+ ## 오늘의 교훈
+ > 코딩하기 좋은 날이다.
+ > [markdown cheatsheet]: http://github.com/adam-p/markdwon-here/wiki/Markdown-Cheatsheet
+
