@@ -48,7 +48,7 @@
 | 테이블와 | 마크다운와            | 하드데스    |   
 
   8. 코드
-'''javascript
-var s= "markdown language is so hard";
+```javascript
+var s = "markdown language is so hard";
 arlert(s);
-'''
+```
