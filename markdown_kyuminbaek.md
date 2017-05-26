@@ -44,7 +44,7 @@ articles, a board game, and other licensed merchandise such as collectible statu
 > Categories: StarCraft
 
 [inline style StarCraft wikipedia](https://en.wikipedia.org/wiki/StarCraft)
-[reference sytle StarCraft wikipedia][arbitrary case-insensitive refernce text]
+[reference style StarCraft wikipedia][arbitrary case-insensitive reference text]
 
 [arbitrary case-insensitive reference text]: https://en.wikipedia/wiki/StarCraft
 
