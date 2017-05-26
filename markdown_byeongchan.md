@@ -42,13 +42,14 @@
 ![alt text](https://www.google.co.kr/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png)
 
   7. 표
+
 | 테이블과 | 마크다운은            | 어렵습니다. |
 |----------|-----------------------|-------------|
 | Table    | and Markdown Language | is so hard  |
 | 테이블와 | 마크다운와            | 하드데스    |   
 
   8. 코드
-'''javascript
-var s= "markdown language is so hard";
+```javascript
+var s = "markdown language is so hard";
 arlert(s);
-'''
+```
