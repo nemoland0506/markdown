@@ -2,9 +2,7 @@ Team 5, Baek kyumin, ddj4909
 
 #StarCraft
 
-![alt text](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSh6dZE-n8iCD2Lsms6Df1rM5uqcTEBrFUcMHYKsMVlEqmUOXvAugXvAug "StarCraft Logo1")
-![alt text][logo]
-[logo]: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSh6dZE-n8iCD2Lsms6Df1rM5uqcTEBrFUcMHYKsMVlEqmUOXvAug "StarCraft Logo2"
+![alt text](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSh6dZE-n8iCD2Lsms6Df1rM5uqcTEBrFUcMHYKsMVlEqmUOXvAugXvAug)
 
 1. Story
 2. Games
@@ -44,6 +42,7 @@ articles, a board game, and other licensed merchandise such as collectible statu
 > Categories: StarCraft
 
 [inline style StarCraft wikipedia](https://en.wikipedia.org/wiki/StarCraft)
+
 [reference style StarCraft wikipedia][arbitrary case-insensitive reference text]
 
 [arbitrary case-insensitive reference text]: https://en.wikipedia/wiki/StarCraft
