@@ -2,22 +2,22 @@ Team 5, Baek kyumin, ddj4909
 
 #StarCraft
 
-![alt text](https://upload.wikimedia.org/wikipeia/commons/thumb/0/0a/StarCraft_Logo.png/250px-StarCraft_Logo.png "StarCraft Logo1")
+![alt text](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSh6dZE-n8iCD2Lsms6Df1rM5uqcTEBrFUcMHYKsMVlEqmUOXvAugXvAug "StarCraft Logo1")
 ![alt text][logo]
-[logo]: https://upload.wikimedia.org/wikipeia/commons/thumb/0/0a/StarCraft_Logo.png/250px-StarCraft_Logo.png "StarCraft Logo2"
+[logo]: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSh6dZE-n8iCD2Lsms6Df1rM5uqcTEBrFUcMHYKsMVlEqmUOXvAug "StarCraft Logo2"
 
 1. Story
 2. Games
- -StarCraft
- -StarCraft II
- -Spin-off titles
+..*StarCraft
+..*StarCraft II
+..*Spin-off titles
 3. Development
 4. Music
- -StarCraft and Brood War
- -StarCraft II
+..*StarCraft and Brood War
+..*StarCraft II
 5. Adaptations
- -Novelizations
- -Merchandise
+..*Novelizations
+..*Merchandise
 6. Reception and cultural impact
 7. References
 8. External links
