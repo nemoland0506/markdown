@@ -21,26 +21,25 @@
   - __과목명__ : 컴퓨터시스템기초설계 5조, __조원__ : *권혁찬*, *백규민*. 
 
   1. 헤더쓰기
-   * # 은 '<h1>' 태그와 같습니다.
-   * ## 은 '<h2>' 태그와 같습니다.
+   * "#" 은 h1 태그와 같습니다.
+   * "##" 은 h2 태그와 같습니다.
    
   2. 강조하기 
    * *이것은 볼드(굵게표시)입니다.*
    * _이것은 이탤릭(기울임표시)입니다._
   
   3. 리스트
-   - 첫번째 리스트
-   * 두번째 리스트
+   - 리스트는 많습니다.
 
   4. 인용하기
    > 오늘의 교훈 : 코딩하기 좋은 날이다.
 
   5. 링크
    * 저의 블로그는 [nemoland의 블로그](https://blog.naver.com/kbc91).
-   * 저의 블로그는 [nemoland의 블로그]: https://blog.naver.com/kbc91).
+   * 저의 블로그는 [nemoland의 블로그]: https://blog.naver.com/kbc91
 
   6. 이미지
-   * ![alt text](https://www.google.co.kr/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png)
+![alt text](https://www.google.co.kr/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png)
 
   7. 표
 | 테이블과 | 마크다운은            | 어렵습니다. |
@@ -49,7 +48,7 @@
 | 테이블와 | 마크다운와            | 하드데스    |   
 
   8. 코드
-  '''javascript
+'''javascript
 var s= "markdown language is so hard";
 arlert(s);
 '''
