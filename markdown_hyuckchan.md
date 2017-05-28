@@ -1,14 +1,13 @@
 Team 5, Kwon Hyuck Chan, gurckscks
 
-#League of legend
-
+# League of legend
+ 
 *목차
 1. 게임정보
 2. 커뮤니티
 3. 멀티미디어
 
-**Exercise** is import.
-_Game_ is difficult.
+**Exercise** is import. _Game_ is difficult.
 
 >MarkDown is difficult.
 >But it is fun.
@@ -26,7 +25,7 @@ _Game_ is difficult.
 |Baek|Kyu Min    |
 
 ```{.c}
-printf("Hellow world");``
+printf("Hellow world");
 ```
 
 [1]:https://www.youtube.com/"Youtube"
