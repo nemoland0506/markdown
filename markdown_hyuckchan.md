@@ -19,11 +19,11 @@ _Game_ is difficult.
 
 ![Naver](http://dbscthumb.phinf.naver.net/2315_000_1/20130809102955884_MWJVA8K0Z.jpg/n2504.jpg?type=m4500_4500_fst)
 
-| My Team Names |
-|-------|-------|
-|Kim|Byeong|Chan|
-|Kwon|Hyuck|Chan|
-|Baek|Kyu|Min|
+|Name|           |
+|----|-----------|
+|Kim |Byeong Chan|
+|Kwon|Hyuck Chan |
+|Baek|Kyu Min    |
 
 ```{.c}
 printf("Hellow world");``
